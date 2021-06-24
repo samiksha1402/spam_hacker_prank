@@ -1,0 +1,10 @@
+body {
+   background-color: black;
+}
+
+#text{
+    font-size: 70px;
+    color: aquamarine; 
+    font-family: 'Titan One', cursive;
+    text-align: center;
+}
